@@ -21,3 +21,14 @@ Front-end JavaScript frameworks
 3. GitHub organization: https://github.com/aurelia/
 4. GitHub, framework: https://github.com/aurelia/framework
 
+## Backbone
+1. Homepage: http://backbonejs.org/
+2. Source code: http://backbonejs.org/docs/backbone.html
+3. [Introduction to Backbone.js(youtube)](https://www.youtube.com/playlist?list=PLCE344BDBD8FAC282)
+4. Community: 
+  + [Google+](https://plus.google.com/communities/116233890145104538372)
+  * [facebook](https://www.facebook.com/Backbonejs)
+  * [twitter](https://twitter.com/Backbonejs_)
+5. Backbone Tutorials: http://backbonetutorials.com/
+6. TodoMVC: http://todomvc.com/examples/backbone/
+
