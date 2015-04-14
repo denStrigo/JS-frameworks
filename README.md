@@ -13,3 +13,11 @@ Front-end JavaScript frameworks
   * [youtube channel](https://www.youtube.com/user/angularjs)
 5. Tutorial: https://docs.angularjs.org/tutorial
 6. TodoMVC: http://todomvc.com/examples/angularjs
+
+## Aurelia
+
+1. Homepage: http://aurelia.io/
+2. Documentation: http://aurelia.io/docs.html
+3. GitHub organization: https://github.com/aurelia/
+4. GitHub, framework: https://github.com/aurelia/framework
+
