@@ -17,7 +17,8 @@ Front-end JavaScript frameworks
   * [geeklist](https://geekli.st/community/angularjs)
   * [youtube channel](https://www.youtube.com/user/angularjs)
 5. Tutorial: https://docs.angularjs.org/tutorial
-6. TodoMVC: http://todomvc.com/examples/angularjs
+6. Education material: https://github.com/timjacobi/angular2-education
+7. TodoMVC: http://todomvc.com/examples/angularjs
 
 ## Aurelia
 
