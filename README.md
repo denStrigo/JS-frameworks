@@ -6,7 +6,7 @@ Front-end JavaScript frameworks
 2. Documentation: http://ampersandjs.com/docs
 3. TodoMVC: http://todomvc.com/examples/ampersand/
 
-## AngularJS
+## Angular
 
 1. Homepage: https://angularjs.org/
 2. API: http://docs.angularjs.org/api
