@@ -44,4 +44,7 @@ Front-end JavaScript frameworks
 1. Homepage: http://knockoutjs.com/
 2. Documentation: http://knockoutjs.com/documentation/introduction.html
 3. Tutorials: http://learn.knockoutjs.com/#/?tutorial=intro
-4. TodoMVC: http://todomvc.com/examples/knockoutjs/
+4. Community:
+  + [Google+](https://plus.google.com/communities/106789046312204355684/stream/c5bfcfdf-3690-44a6-b015-35aad4f4e42e)
+  + [stackoverflow](http://stackoverflow.com/questions/tagged/knockout.js)
+5. TodoMVC: http://todomvc.com/examples/knockoutjs/
