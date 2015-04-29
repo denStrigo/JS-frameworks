@@ -39,6 +39,13 @@ Front-end JavaScript frameworks
 5. Backbone Tutorials: http://backbonetutorials.com/
 6. TodoMVC: http://todomvc.com/examples/backbone/
 
+## Dojo
+1. Homepage: https://dojotoolkit.org/
+2. Documentation: https://dojotoolkit.org/
+3. Tutorials: https://dojotoolkit.org/documentation/#tutorials
+4. Community: https://dojotoolkit.org/community/
+5. TodoMVC: http://todomvc.com/examples/dojo/
+
 ## Knockout
 
 1. Homepage: http://knockoutjs.com/
